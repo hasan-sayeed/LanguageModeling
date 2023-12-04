@@ -1,1 +1,3 @@
-# LanguageModeling
+## LanguageModeling
+
+This is a mini-project for class [CS 6957 - NLP with Deep Learning](https://svivek.com/teaching/deep-learning-nlp/fall2023//index.html). In this mini-project, a 4-gram model and a character-level language model has been implemented. An LSTM [Hochreiter and Schmidhuber [1997]](https://direct.mit.edu/neco/article/9/8/1735/6109/Long-Short-Term-Memory) based recurrent neural network was used to build the character-level language model.
